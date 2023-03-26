@@ -1,0 +1,11 @@
+{
+  "name": "@unbound/digijump-sessiondata-library",
+  "version": "2.4.26",
+  "description": "A data spec and library of functions for segmentRecords created by the digijump OnDevice application",
+  "main": "index.js",
+  "repository": "https://github.com/unbound-services/digijump-sessionData-library.git",
+  "author": "Radet 5 <r.5@unbound.services>",
+  "contributors": ["Madeline Nuss <m.n@unbound.services>"],
+  "license": "ISC",
+  "private": true
+}
